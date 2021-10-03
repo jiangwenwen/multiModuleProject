@@ -1,0 +1,4 @@
+# Project exclude paths
+/common/target/
+/dao/target/
+/test/target/
